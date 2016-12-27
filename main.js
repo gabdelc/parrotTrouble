@@ -4,9 +4,9 @@ function parrot1()
 	var pajaro = document.getElementById("parrotTalk");
 
 	if(pajaro.checked)
-		img1.innerHTML = '<img src="img/sing.png">';
+		img1.innerHTML = '<img src="img/sing.jpg">';
 	else
-		img1.innerHTML = '<img src="img/mudo.png">';
+		img1.innerHTML = '<img src="img/mudo.jpg">';
 }
 
 function evaluar(){
